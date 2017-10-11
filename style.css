@@ -13,7 +13,7 @@ html {
 body {
 	height: 100%;
 	width: 100%;
-	background: linear-gradient(135deg, #E18CC5, #E1E4C5);
+	background: linear-gradient(135deg, #868CC5, #9BD2F2);
 	background-size: cover;
 	background-repeat: no-repeat;
 	display: inline-block;
@@ -28,7 +28,7 @@ body {
 .about {
 	height: 100%;
 	width: 100%;
-	background: linear-gradient(135deg, );
+	background-color: linear-gradient(135deg, #FFB1FF, #53B0E5);
 	background-size: cover;
 	background-repeat: no-repeat;
 	display: inline-block;
